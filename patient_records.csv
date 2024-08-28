@@ -1,0 +1,501 @@
+,Patient ID,Surgery Type,Age,Gender,Days since last visit,Outcome
+0,1,PK,82,Male,23,Pass
+1,2,PK,46,Female,157,Fail
+2,3,DALK,30,Male,27,Pass
+3,4,THPK,78,Male,180,Pass
+4,5,PK,40,Male,222,Not determined
+5,6,DALK,69,Female,119,Pass
+6,7,EK,80,Male,308,Pass
+7,8,PK,55,Male,55,Pass
+8,9,PK,44,Male,44,Pass
+9,10,EK,9,Male,219,Not determined
+10,11,DALK,49,Male,175,Pass
+11,12,EK,18,Female,283,Pass
+12,13,DALK,88,Male,203,Pass
+13,14,DALK,52,Female,224,Pass
+14,15,THPK,39,Male,276,Fail
+15,16,THPK,40,Female,356,Fail
+16,17,DALK,53,Female,168,Pass
+17,18,EK,9,Male,134,Pass
+18,19,THPK,11,Female,37,Fail
+19,20,PK,66,Male,163,Fail
+20,21,PK,90,Male,349,Not determined
+21,22,EK,18,Female,202,Pass
+22,23,THPK,41,Male,311,Fail
+23,24,PK,40,Male,202,Pass
+24,25,EK,30,Female,331,Pass
+25,26,EK,92,Male,56,Pass
+26,27,EK,71,Female,19,Fail
+27,28,EK,33,Female,27,Fail
+28,29,PK,20,Male,142,Fail
+29,30,THPK,26,Male,236,Pass
+30,31,EK,76,Male,288,Pass
+31,32,PK,82,Male,98,Pass
+32,33,DALK,92,Male,195,Pass
+33,34,EK,79,Male,287,Pass
+34,35,EK,56,Male,179,Not determined
+35,36,DALK,93,Female,196,Pass
+36,37,PK,74,Male,209,Pass
+37,38,DALK,65,Male,347,Pass
+38,39,THPK,34,Female,48,Not determined
+39,40,EK,23,Female,190,Pass
+40,41,EK,25,Female,323,Not determined
+41,42,DALK,92,Male,258,Not determined
+42,43,EK,28,Female,181,Pass
+43,44,PK,53,Female,107,Pass
+44,45,THPK,27,Female,101,Not determined
+45,46,PK,16,Female,208,Not determined
+46,47,THPK,86,Female,2,Fail
+47,48,EK,54,Female,303,Pass
+48,49,PK,73,Male,117,Fail
+49,50,PK,82,Male,15,Fail
+50,51,PK,70,Female,218,Not determined
+51,52,THPK,75,Female,211,Not determined
+52,53,THPK,76,Male,244,Fail
+53,54,THPK,51,Male,96,Not determined
+54,55,PK,93,Male,132,Fail
+55,56,THPK,61,Male,100,Pass
+56,57,PK,18,Female,48,Not determined
+57,58,PK,65,Male,1,Not determined
+58,59,THPK,62,Female,74,Fail
+59,60,THPK,96,Female,284,Pass
+60,61,DALK,92,Female,103,Pass
+61,62,EK,41,Male,276,Not determined
+62,63,PK,90,Male,100,Fail
+63,64,DALK,15,Female,150,Pass
+64,65,EK,20,Female,76,Pass
+65,66,DALK,45,Female,27,Pass
+66,67,THPK,85,Female,357,Fail
+67,68,PK,37,Male,10,Not determined
+68,69,THPK,65,Female,44,Fail
+69,70,PK,57,Male,68,Not determined
+70,71,PK,76,Male,155,Not determined
+71,72,EK,91,Male,231,Not determined
+72,73,PK,9,Male,188,Fail
+73,74,DALK,74,Male,278,Pass
+74,75,DALK,69,Female,228,Pass
+75,76,EK,38,Male,64,Pass
+76,77,THPK,39,Female,156,Fail
+77,78,PK,82,Female,118,Not determined
+78,79,EK,46,Male,331,Pass
+79,80,THPK,41,Female,311,Pass
+80,81,THPK,82,Male,138,Not determined
+81,82,PK,82,Female,336,Pass
+82,83,THPK,32,Male,96,Fail
+83,84,DALK,30,Male,271,Pass
+84,85,EK,63,Male,135,Not determined
+85,86,EK,72,Female,307,Pass
+86,87,PK,91,Female,344,Fail
+87,88,DALK,53,Female,97,Pass
+88,89,THPK,37,Male,341,Fail
+89,90,EK,62,Female,128,Pass
+90,91,PK,48,Female,139,Fail
+91,92,PK,45,Female,287,Fail
+92,93,THPK,98,Male,289,Fail
+93,94,THPK,79,Female,332,Fail
+94,95,DALK,88,Female,19,Pass
+95,96,EK,88,Female,15,Not determined
+96,97,EK,25,Male,69,Not determined
+97,98,DALK,62,Male,272,Pass
+98,99,PK,95,Female,5,Not determined
+99,100,DALK,62,Female,294,Pass
+100,101,THPK,79,Female,1,Fail
+101,102,EK,33,Female,108,Pass
+102,103,PK,7,Female,263,Pass
+103,104,DALK,38,Male,362,Pass
+104,105,PK,87,Male,36,Not determined
+105,106,DALK,61,Female,103,Pass
+106,107,DALK,50,Female,156,Pass
+107,108,EK,20,Female,324,Not determined
+108,109,DALK,52,Male,148,Pass
+109,110,EK,86,Male,306,Not determined
+110,111,PK,60,Male,112,Not determined
+111,112,DALK,19,Male,31,Pass
+112,113,DALK,60,Male,309,Pass
+113,114,DALK,88,Female,335,Pass
+114,115,PK,84,Female,193,Pass
+115,116,THPK,23,Female,4,Fail
+116,117,THPK,87,Female,122,Fail
+117,118,PK,38,Male,333,Pass
+118,119,THPK,21,Female,135,Fail
+119,120,DALK,13,Female,237,Pass
+120,121,DALK,38,Male,229,Pass
+121,122,EK,13,Female,105,Pass
+122,123,PK,96,Female,343,Pass
+123,124,DALK,62,Male,320,Pass
+124,125,EK,50,Female,89,Pass
+125,126,DALK,10,Female,218,Pass
+126,127,EK,46,Female,105,Pass
+127,128,DALK,77,Female,87,Pass
+128,129,PK,96,Male,340,Pass
+129,130,THPK,82,Female,213,Not determined
+130,131,PK,98,Female,72,Fail
+131,132,PK,32,Female,312,Pass
+132,133,PK,31,Female,143,Pass
+133,134,EK,33,Male,163,Fail
+134,135,DALK,62,Male,243,Pass
+135,136,THPK,75,Male,99,Fail
+136,137,THPK,13,Male,167,Not determined
+137,138,EK,30,Male,214,Not determined
+138,139,EK,17,Female,31,Pass
+139,140,EK,37,Male,298,Not determined
+140,141,DALK,11,Female,87,Pass
+141,142,THPK,54,Male,83,Pass
+142,143,THPK,86,Male,8,Fail
+143,144,THPK,79,Female,322,Fail
+144,145,EK,52,Female,113,Not determined
+145,146,EK,10,Female,115,Not determined
+146,147,EK,47,Male,40,Not determined
+147,148,THPK,66,Male,67,Fail
+148,149,PK,16,Female,187,Pass
+149,150,PK,55,Female,167,Pass
+150,151,EK,68,Male,123,Not determined
+151,152,DALK,54,Female,170,Pass
+152,153,EK,56,Female,66,Pass
+153,154,PK,42,Male,74,Fail
+154,155,PK,75,Female,56,Pass
+155,156,EK,74,Male,17,Pass
+156,157,DALK,94,Female,113,Pass
+157,158,EK,40,Female,296,Pass
+158,159,EK,51,Male,64,Not determined
+159,160,PK,45,Male,154,Fail
+160,161,DALK,60,Female,281,Pass
+161,162,DALK,71,Male,220,Pass
+162,163,DALK,94,Female,112,Pass
+163,164,PK,78,Male,197,Pass
+164,165,THPK,80,Male,323,Not determined
+165,166,DALK,56,Female,192,Pass
+166,167,PK,46,Female,41,Pass
+167,168,PK,83,Male,10,Pass
+168,169,DALK,62,Male,8,Pass
+169,170,PK,95,Male,163,Not determined
+170,171,EK,12,Female,269,Pass
+171,172,EK,8,Female,138,Not determined
+172,173,DALK,36,Female,164,Pass
+173,174,THPK,86,Male,58,Fail
+174,175,THPK,38,Male,18,Pass
+175,176,EK,45,Female,195,Not determined
+176,177,PK,44,Male,231,Fail
+177,178,EK,75,Female,33,Not determined
+178,179,PK,32,Male,128,Not determined
+179,180,PK,60,Male,89,Pass
+180,181,DALK,60,Female,216,Fail
+181,182,EK,12,Male,264,Pass
+182,183,EK,96,Female,334,Not determined
+183,184,THPK,9,Male,193,Pass
+184,185,DALK,31,Male,19,Pass
+185,186,EK,39,Female,164,Pass
+186,187,EK,17,Female,180,Pass
+187,188,PK,61,Male,188,Not determined
+188,189,PK,52,Female,293,Pass
+189,190,PK,96,Male,261,Pass
+190,191,EK,82,Male,31,Pass
+191,192,THPK,34,Female,91,Fail
+192,193,PK,67,Female,146,Fail
+193,194,EK,12,Female,168,Not determined
+194,195,EK,47,Male,272,Pass
+195,196,EK,9,Female,234,Pass
+196,197,THPK,97,Male,280,Pass
+197,198,DALK,63,Female,196,Fail
+198,199,PK,84,Male,189,Not determined
+199,200,THPK,12,Male,1,Fail
+200,201,DALK,42,Male,277,Pass
+201,202,EK,58,Female,244,Pass
+202,203,THPK,8,Female,41,Not determined
+203,204,PK,22,Female,97,Not determined
+204,205,THPK,34,Female,46,Pass
+205,206,PK,94,Female,101,Pass
+206,207,THPK,82,Male,281,Fail
+207,208,PK,48,Male,321,Not determined
+208,209,PK,92,Female,29,Pass
+209,210,DALK,44,Female,352,Pass
+210,211,PK,42,Male,258,Not determined
+211,212,DALK,90,Male,162,Pass
+212,213,EK,62,Male,142,Fail
+213,214,EK,81,Female,264,Pass
+214,215,EK,31,Male,98,Pass
+215,216,PK,50,Male,356,Pass
+216,217,THPK,12,Female,83,Fail
+217,218,PK,30,Female,122,Pass
+218,219,THPK,40,Female,44,Fail
+219,220,PK,54,Male,212,Fail
+220,221,DALK,48,Female,10,Fail
+221,222,PK,69,Female,318,Pass
+222,223,DALK,89,Male,13,Pass
+223,224,THPK,75,Male,150,Pass
+224,225,PK,72,Female,113,Not determined
+225,226,EK,77,Male,166,Not determined
+226,227,THPK,97,Female,362,Pass
+227,228,DALK,89,Male,303,Pass
+228,229,PK,98,Female,157,Fail
+229,230,THPK,29,Female,251,Fail
+230,231,EK,88,Male,346,Pass
+231,232,PK,69,Female,24,Not determined
+232,233,THPK,76,Female,279,Fail
+233,234,THPK,79,Female,350,Not determined
+234,235,EK,41,Male,96,Pass
+235,236,DALK,74,Female,200,Pass
+236,237,DALK,59,Female,34,Pass
+237,238,EK,22,Female,156,Fail
+238,239,EK,8,Male,281,Pass
+239,240,PK,65,Male,251,Pass
+240,241,EK,82,Male,306,Not determined
+241,242,PK,85,Male,227,Not determined
+242,243,PK,65,Male,198,Pass
+243,244,THPK,32,Female,149,Fail
+244,245,PK,56,Male,37,Fail
+245,246,PK,24,Female,236,Pass
+246,247,EK,71,Male,356,Not determined
+247,248,DALK,82,Male,11,Fail
+248,249,PK,63,Male,11,Fail
+249,250,DALK,15,Female,290,Pass
+250,251,EK,81,Male,152,Pass
+251,252,DALK,24,Male,87,Pass
+252,253,DALK,61,Male,340,Pass
+253,254,DALK,48,Male,217,Pass
+254,255,THPK,76,Female,87,Fail
+255,256,DALK,49,Male,80,Fail
+256,257,THPK,14,Female,219,Not determined
+257,258,PK,69,Male,342,Not determined
+258,259,EK,99,Male,165,Pass
+259,260,EK,60,Female,324,Fail
+260,261,THPK,31,Female,295,Fail
+261,262,EK,78,Male,45,Pass
+262,263,EK,9,Male,84,Pass
+263,264,EK,69,Male,136,Not determined
+264,265,THPK,71,Male,105,Fail
+265,266,DALK,89,Female,74,Pass
+266,267,THPK,90,Male,327,Pass
+267,268,PK,17,Female,19,Pass
+268,269,THPK,66,Male,22,Fail
+269,270,EK,84,Male,187,Fail
+270,271,PK,11,Female,135,Pass
+271,272,EK,32,Male,205,Fail
+272,273,EK,52,Male,60,Pass
+273,274,EK,52,Female,22,Fail
+274,275,EK,30,Male,91,Not determined
+275,276,EK,58,Female,103,Pass
+276,277,DALK,75,Female,0,Not determined
+277,278,THPK,80,Male,249,Fail
+278,279,EK,51,Female,244,Pass
+279,280,THPK,99,Male,227,Fail
+280,281,DALK,64,Female,47,Not determined
+281,282,THPK,20,Female,137,Pass
+282,283,PK,46,Female,196,Pass
+283,284,DALK,45,Male,93,Not determined
+284,285,DALK,84,Female,175,Pass
+285,286,PK,23,Female,233,Pass
+286,287,EK,90,Male,194,Pass
+287,288,EK,17,Male,1,Not determined
+288,289,PK,25,Male,16,Pass
+289,290,EK,51,Male,145,Pass
+290,291,EK,40,Male,107,Not determined
+291,292,EK,22,Male,223,Pass
+292,293,PK,96,Male,259,Pass
+293,294,DALK,48,Female,142,Pass
+294,295,PK,87,Male,148,Fail
+295,296,PK,63,Female,289,Pass
+296,297,DALK,54,Male,81,Pass
+297,298,EK,40,Female,67,Pass
+298,299,DALK,51,Male,25,Pass
+299,300,THPK,89,Male,264,Pass
+300,301,THPK,59,Female,241,Fail
+301,302,THPK,12,Male,119,Fail
+302,303,THPK,10,Female,224,Not determined
+303,304,EK,65,Female,46,Not determined
+304,305,PK,36,Female,161,Not determined
+305,306,DALK,63,Female,278,Pass
+306,307,THPK,72,Male,234,Fail
+307,308,DALK,32,Female,285,Pass
+308,309,PK,75,Male,151,Pass
+309,310,PK,10,Male,311,Pass
+310,311,DALK,69,Male,302,Pass
+311,312,THPK,65,Male,313,Fail
+312,313,DALK,88,Male,230,Pass
+313,314,PK,19,Male,61,Pass
+314,315,DALK,41,Female,293,Pass
+315,316,DALK,85,Female,362,Pass
+316,317,EK,23,Male,21,Pass
+317,318,EK,29,Female,331,Pass
+318,319,PK,33,Male,330,Pass
+319,320,EK,32,Female,285,Pass
+320,321,DALK,83,Male,242,Pass
+321,322,THPK,60,Female,27,Pass
+322,323,PK,68,Male,299,Fail
+323,324,PK,65,Male,166,Fail
+324,325,EK,20,Male,206,Pass
+325,326,THPK,67,Female,138,Not determined
+326,327,PK,53,Female,0,Pass
+327,328,THPK,69,Female,219,Pass
+328,329,PK,20,Female,357,Not determined
+329,330,THPK,36,Male,58,Pass
+330,331,EK,31,Male,101,Not determined
+331,332,THPK,48,Male,326,Pass
+332,333,EK,36,Male,270,Pass
+333,334,THPK,35,Female,297,Pass
+334,335,PK,9,Male,300,Fail
+335,336,EK,16,Male,344,Pass
+336,337,DALK,45,Male,146,Pass
+337,338,THPK,74,Female,249,Fail
+338,339,DALK,48,Female,301,Fail
+339,340,DALK,49,Female,49,Fail
+340,341,THPK,72,Female,71,Pass
+341,342,EK,22,Male,237,Pass
+342,343,DALK,24,Female,33,Pass
+343,344,EK,14,Male,269,Not determined
+344,345,PK,83,Male,83,Not determined
+345,346,DALK,14,Male,198,Fail
+346,347,DALK,37,Male,100,Pass
+347,348,DALK,23,Female,175,Pass
+348,349,THPK,10,Male,115,Not determined
+349,350,EK,88,Female,232,Not determined
+350,351,EK,93,Male,212,Pass
+351,352,PK,79,Male,344,Not determined
+352,353,DALK,42,Female,358,Not determined
+353,354,THPK,85,Female,50,Fail
+354,355,EK,54,Male,5,Pass
+355,356,DALK,42,Female,20,Fail
+356,357,DALK,49,Male,152,Pass
+357,358,PK,11,Male,315,Not determined
+358,359,PK,66,Male,299,Fail
+359,360,EK,81,Male,146,Pass
+360,361,THPK,74,Female,238,Fail
+361,362,THPK,79,Female,266,Pass
+362,363,THPK,98,Male,39,Pass
+363,364,THPK,32,Male,244,Fail
+364,365,PK,99,Female,72,Not determined
+365,366,PK,29,Male,303,Pass
+366,367,DALK,40,Male,232,Pass
+367,368,EK,26,Female,212,Not determined
+368,369,EK,73,Male,195,Not determined
+369,370,PK,46,Female,279,Pass
+370,371,DALK,89,Female,318,Pass
+371,372,PK,31,Female,174,Not determined
+372,373,THPK,93,Female,80,Fail
+373,374,DALK,63,Male,29,Not determined
+374,375,PK,14,Male,194,Pass
+375,376,EK,88,Male,346,Pass
+376,377,PK,48,Male,252,Pass
+377,378,THPK,38,Female,297,Fail
+378,379,DALK,52,Male,56,Pass
+379,380,PK,38,Male,32,Pass
+380,381,EK,78,Female,169,Pass
+381,382,PK,24,Female,190,Not determined
+382,383,EK,71,Female,264,Pass
+383,384,THPK,78,Female,334,Fail
+384,385,DALK,13,Female,355,Pass
+385,386,THPK,45,Female,307,Not determined
+386,387,EK,25,Female,205,Not determined
+387,388,THPK,74,Female,115,Pass
+388,389,DALK,44,Female,112,Pass
+389,390,PK,73,Female,362,Pass
+390,391,EK,32,Male,301,Pass
+391,392,EK,52,Female,282,Not determined
+392,393,PK,57,Male,11,Pass
+393,394,DALK,93,Female,177,Fail
+394,395,DALK,18,Male,236,Pass
+395,396,THPK,94,Female,140,Fail
+396,397,DALK,25,Male,24,Pass
+397,398,DALK,55,Male,152,Fail
+398,399,EK,15,Male,183,Pass
+399,400,EK,27,Male,106,Not determined
+400,401,EK,16,Male,77,Pass
+401,402,THPK,88,Male,38,Pass
+402,403,PK,12,Male,14,Pass
+403,404,PK,99,Male,106,Not determined
+404,405,DALK,44,Female,22,Pass
+405,406,THPK,49,Female,286,Fail
+406,407,THPK,63,Male,191,Fail
+407,408,DALK,67,Female,13,Pass
+408,409,THPK,98,Female,80,Pass
+409,410,THPK,63,Male,138,Fail
+410,411,DALK,11,Female,9,Pass
+411,412,PK,40,Male,251,Pass
+412,413,PK,13,Female,15,Pass
+413,414,EK,99,Female,120,Not determined
+414,415,EK,70,Male,180,Not determined
+415,416,THPK,7,Female,242,Fail
+416,417,THPK,61,Female,240,Not determined
+417,418,PK,52,Male,270,Not determined
+418,419,EK,28,Female,138,Pass
+419,420,PK,81,Male,95,Pass
+420,421,DALK,67,Female,132,Pass
+421,422,PK,69,Female,149,Pass
+422,423,PK,32,Male,289,Fail
+423,424,PK,25,Male,113,Not determined
+424,425,EK,89,Female,67,Fail
+425,426,EK,58,Male,155,Pass
+426,427,EK,78,Male,305,Pass
+427,428,EK,52,Female,321,Fail
+428,429,PK,8,Female,69,Not determined
+429,430,THPK,17,Female,216,Fail
+430,431,EK,81,Female,198,Pass
+431,432,PK,12,Female,223,Pass
+432,433,THPK,56,Female,170,Fail
+433,434,DALK,48,Female,326,Pass
+434,435,EK,76,Female,33,Not determined
+435,436,PK,46,Female,307,Not determined
+436,437,THPK,60,Male,226,Not determined
+437,438,EK,23,Female,171,Pass
+438,439,EK,98,Male,289,Pass
+439,440,DALK,9,Male,337,Pass
+440,441,DALK,73,Female,1,Pass
+441,442,DALK,18,Male,204,Pass
+442,443,PK,48,Female,183,Pass
+443,444,THPK,51,Female,345,Fail
+444,445,PK,61,Female,73,Not determined
+445,446,EK,80,Female,325,Pass
+446,447,THPK,46,Male,276,Pass
+447,448,EK,19,Male,301,Pass
+448,449,THPK,8,Male,140,Fail
+449,450,THPK,37,Male,215,Pass
+450,451,DALK,77,Female,354,Pass
+451,452,EK,45,Male,101,Pass
+452,453,EK,50,Female,182,Fail
+453,454,EK,53,Female,215,Pass
+454,455,EK,14,Female,227,Pass
+455,456,DALK,18,Female,245,Pass
+456,457,DALK,61,Female,152,Pass
+457,458,EK,7,Male,299,Pass
+458,459,EK,36,Male,83,Pass
+459,460,PK,66,Female,277,Pass
+460,461,THPK,85,Male,355,Not determined
+461,462,THPK,7,Male,246,Pass
+462,463,EK,66,Male,181,Pass
+463,464,DALK,16,Male,192,Pass
+464,465,DALK,79,Female,168,Pass
+465,466,DALK,38,Female,236,Pass
+466,467,EK,39,Male,152,Pass
+467,468,DALK,95,Female,204,Pass
+468,469,EK,79,Male,57,Pass
+469,470,PK,34,Male,200,Fail
+470,471,THPK,47,Female,186,Not determined
+471,472,PK,45,Female,107,Pass
+472,473,DALK,84,Male,331,Pass
+473,474,THPK,8,Male,243,Fail
+474,475,PK,41,Female,288,Pass
+475,476,DALK,67,Female,82,Pass
+476,477,PK,64,Female,267,Pass
+477,478,THPK,59,Female,161,Not determined
+478,479,THPK,70,Male,285,Fail
+479,480,PK,7,Male,44,Not determined
+480,481,EK,56,Male,153,Pass
+481,482,DALK,63,Male,26,Pass
+482,483,THPK,22,Female,91,Not determined
+483,484,DALK,30,Male,252,Pass
+484,485,PK,54,Female,264,Pass
+485,486,THPK,35,Male,232,Fail
+486,487,PK,82,Male,148,Not determined
+487,488,THPK,88,Male,79,Fail
+488,489,THPK,89,Female,350,Not determined
+489,490,EK,60,Male,172,Pass
+490,491,DALK,71,Male,180,Pass
+491,492,DALK,55,Female,181,Pass
+492,493,PK,72,Male,195,Pass
+493,494,THPK,53,Female,179,Not determined
+494,495,EK,77,Female,317,Not determined
+495,496,EK,80,Female,97,Not determined
+496,497,EK,97,Male,52,Fail
+497,498,PK,47,Female,83,Not determined
+498,499,PK,25,Male,215,Pass
+499,500,DALK,10,Male,152,Pass
